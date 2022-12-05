@@ -11,6 +11,7 @@ Sif is a simple, lightweight Discord Bot written in Node.js. It gives role by us
 3. Create a bot application on [Discord Developer Portal](https://discord.com/developers/applications)
 4. Copy `example.env` to `.env` and fill the values
 5. Run the bot with `node index.js`
+6. Type `s!button` in your server to setup the bot
 
 ## Support
 
